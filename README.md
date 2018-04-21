@@ -9,8 +9,11 @@ Python 2.7 (2.7.2時点) のドキュメントの翻訳が完了しています�
 [オンラインで見る](http://docs.python.jp/2/)
 
 ## 問題報告 ##
-[Issues](https://github.com/python-doc-ja/python-doc-ja/issues) から登録をお願いします。
+
+翻訳の誤りを見つけた場合は、[Issues](https://github.com/python-doc-ja/python-doc-ja/issues) から登録をお願いします。
 (要 GitHub アカウント)
+
+Issuesでは、翻訳プロジェクトの運用や用語の統一といった内容も登録できます。
 
 ## 翻訳に参加したい方は ##
 [Transifex](https://www.transifex.com/) にサインインし、 [python-36](https://www.transifex.com/python-doc/python-36/) から翻訳してください。
